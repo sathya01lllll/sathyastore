@@ -1,22 +1,22 @@
 {
-  "name": "SathyaStore Api",
+  "name": "Skyzopedia Api",
   "version": "v3.0.0",
   "description": "Simple and easy to use API for WhatsApp Bot feature.",
   "header": {
     "status": "Active!"
   },
   "apiSettings": {
-    "creator": "Sathyastore", 
-    "apikey": ["Akv=?_XXAE%838E1"]
+    "creator": "Skyzopedia", 
+    "apikey": ["new2025"]
   },
   "links": [
     {
       "name": "Source Code",
-      "url": "https://sathya01lllll.github.io/sathyastore/"
+      "url": "https://github.com/rynxzyy/Rynn-UI"
     },
     {
       "name": "Contact Me",
-      "url": "https://whatsapp.com/channel/0029ValD4IA9MF8ypTzTvM42"
+      "url": "https://whatsapp.com/channel/0029VaYoztA47XeAhs447Y1s"
     }
   ],
   "categories": [
@@ -42,13 +42,13 @@
           "name": "Create Payment",
           "desc": "Create qris payment", 
           "path": "/orderkuota/createpayment?apikey=&amount=&codeqr=", 
-          "innerDesc": "Buy apikey >> wa.me/6281329731976"
+          "innerDesc": "Buy apikey >> wa.me/628386890336"
         },
         {
           "name": "Cek Status",
           "desc": "Cek status payment", 
           "path": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut=", 
-          "innerDesc": "Buy apikey >> wa.me/6281329731976"          
+          "innerDesc": "Buy apikey >> wa.me/628386890336"          
         }
       ]
     },    
@@ -353,5 +353,4 @@
       ]
     }               
   ]
-        }
-        
+}
