@@ -1,13 +1,13 @@
 {
-  "name": "sathyastore Api",
+  "name": "SathyaStore Api",
   "version": "v3.0.0",
   "description": "Simple and easy to use API for WhatsApp Bot feature.",
   "header": {
     "status": "Active!"
   },
   "apiSettings": {
-    "creator": "sathyastore", 
-    "apikey": ["sathyastore213"]
+    "creator": "Sathyastore", 
+    "apikey": ["Akv=?_XXAE%838E1"]
   },
   "links": [
     {
@@ -353,4 +353,5 @@
       ]
     }               
   ]
-}
+        }
+        
